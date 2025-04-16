@@ -36,56 +36,56 @@ const CoverflowSlider = () => {
       >
         <SwiperSlide className="w-64">
           <img
-            src="/src/assets/hero/1.jpg"
+            src="/assets/hero/1.jpg"
             alt="Slide 1"
             className="rounded-md"
           />
         </SwiperSlide>
         <SwiperSlide className="w-64">
           <img
-            src="/src/assets/hero/2.jpg"
+            src="/assets/hero/2.jpg"
             alt="Slide 1"
             className="rounded-md"
           />
         </SwiperSlide>
         <SwiperSlide className="w-64">
           <img
-            src="/src/assets/hero/3.jpg"
+            src="/assets/hero/3.jpg"
             alt="Slide 1"
             className="rounded-md"
           />
         </SwiperSlide>
         <SwiperSlide className="w-64">
           <img
-            src="/src/assets/hero/4.jpg"
+            src="/assets/hero/4.jpg"
             alt="Slide 1"
             className="rounded-md"
           />
         </SwiperSlide>
         <SwiperSlide className="w-64">
           <img
-            src="/src/assets/hero/5.jpg"
+            src="/assets/hero/5.jpg"
             alt="Slide 1"
             className="rounded-md"
           />
         </SwiperSlide>
         <SwiperSlide className="w-64">
           <img
-            src="/src/assets/hero/6.jpg"
+            src="/assets/hero/6.jpg"
             alt="Slide 1"
             className="rounded-md"
           />
         </SwiperSlide>
         <SwiperSlide className="w-64">
           <img
-            src="/src/assets/hero/7.jpg"
+            src="/assets/hero/7.jpg"
             alt="Slide 1"
             className="rounded-md"
           />
         </SwiperSlide>
         <SwiperSlide className="w-64">
           <img
-            src="/src/assets/hero/8.jpg"
+            src="/assets/hero/8.jpg"
             alt="Slide 1"
             className="rounded-md"
           />

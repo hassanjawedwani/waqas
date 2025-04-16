@@ -8,9 +8,13 @@
 
   --color-color4: #ffffff;
   --color-color5: #6C737D;
+  --color-color6: #ECF7FF;
+  --color-color7: #646161;
+  --color-color8: #f8f8f8;
   --font-figtree: "Figtree", sans-serif;
 }
 
 body {
   @apply font-figtree;
+  box-sizing: border-box;
 }

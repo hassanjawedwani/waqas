@@ -20,7 +20,7 @@ export default function Hero() {
             className="bg-colorbg1 flex justify-center items-center px-4 lg:px-6 py-2 rounded-full gap-3"
           >
             <img
-              src="/src/assets/playstoreWhite.svg"
+              src="/assets/playstoreWhite.svg"
               alt="playstore link"
             />
             <span className="text-color4 text-lg lg:text-2xl">Google Play</span>
@@ -30,7 +30,7 @@ export default function Hero() {
             className="bg-colorbg1 flex justify-center items-center  px-4 lg:px-6 py-2  rounded-full gap-3"
           >
             <img
-              src="/src/assets/appstore.svg"
+              src="/assets/appstore.svg"
               alt="app store link"
             />{" "}
             <span className="text-color4 text-lg lg:text-2xl">App Store</span>

@@ -10,7 +10,7 @@ export default function Navbar() {
         <Link to="/">
           <div id="brand" className="flex items-center">
             <img
-              src="/src/assets/logo.png"
+              src="/assets/logo.png"
               alt="logo"
               className="w-14 h-14 mr-4 "
             />
@@ -112,7 +112,7 @@ export default function Navbar() {
             target="_blank"
           >
             <img
-              src="/src/assets/playstore.svg"
+              src="/assets/playstore.svg"
               alt="logo"
               className="w-14 h-14 mr-4 rounded-2xl"
             />
@@ -122,7 +122,7 @@ export default function Navbar() {
             target="_blank"
           >
             <img
-              src="/src/assets/appstore.svg"
+              src="/assets/appstore.svg"
               alt="logo"
               className="w-14 h-14 rounded-2xl "
             />
@@ -135,7 +135,7 @@ export default function Navbar() {
           aria-label="Toggle navigation menu"
         >
           <img
-            src="/src/assets/burger.svg"
+            src="/assets/burger.svg"
             alt="mobile-menu"
             className="w-8 h-8 rounded-2xl"
           />
