@@ -19,7 +19,7 @@ createRoot(document.getElementById("root")).render(
     <AppInfo />
     <Spacer />
     <About />
-    <Spacer />
+    <Spacer /> 
     <KeyFeatures />
     <Routes>
       <Route path="/" element={<App />} />
