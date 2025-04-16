@@ -12,14 +12,14 @@ import KeyFeatures from "./pages/KeyFeatures.jsx";
 
 createRoot(document.getElementById("root")).render(
   <BrowserRouter>
-    {/* <Navbar />
+    <Navbar />
     <Spacer />
     <Hero />
     <Spacer />
     <AppInfo />
     <Spacer />
     <About />
-    <Spacer /> */}
+    <Spacer />
     <KeyFeatures />
     <Routes>
       <Route path="/" element={<App />} />
