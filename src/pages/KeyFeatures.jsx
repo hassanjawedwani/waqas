@@ -33,6 +33,17 @@ export default function KeyFeatures() {
           </div>
           <div className='bg-color4 rounded-2xl p-5 hover:border hover:border-red-500 space-y-4'>
             <div>
+              <img src='/assets/features/3.svg' alt='' className='' />
+            </div>
+            <div>
+              <h3 className='text-lg font-semibold'>Geotagging Made Easy</h3>
+            </div>
+            <div>
+              <p className='text-sm text-color7'>Easily navigate through your memories with GPS-enabled timestamping. Explore physical locations right from your photo gallery using Geotag and Location.</p>
+            </div>
+          </div>
+          <div className='bg-color4 rounded-2xl p-5 hover:border hover:border-blue-500 space-y-4'>
+            <div>
               <img src='/assets/features/4.svg' alt='' className='' />
             </div>
             <div>
@@ -42,7 +53,7 @@ export default function KeyFeatures() {
               <p className='text-sm text-color7'>Add notes directly onto your stamps. This feature helps you annotate images with additional information, making photos meaningful and detailed.</p>
             </div>
           </div>
-          <div className='bg-color4 rounded-2xl p-5 hover:border hover:border-blue-500 space-y-4'>
+          <div className='bg-color4 rounded-2xl p-5 hover:border hover:border-green-500 space-y-4'>
             <div>
               <img src='/assets/features/5.svg' alt='' className='' />
             </div>
@@ -53,7 +64,7 @@ export default function KeyFeatures() {
               <p className='text-sm text-color7'>Record exact time and location details with Tagofy. Add Geotag, Location, Latitude, Longitude, and DateTime Stamp to your photos for precise and accurate memories.</p>
             </div>
           </div>
-          <div className='bg-color4 rounded-2xl p-5 hover:border hover:border-yellow-500 space-y-4'>
+          <div className='bg-color4 rounded-2xl p-5 hover:border hover:border-brown-500 space-y-4'>
             <div>
               <img src='/assets/features/6.svg' alt='' className='' />
             </div>
@@ -62,17 +73,6 @@ export default function KeyFeatures() {
             </div>
             <div>
               <p className='text-sm text-color7'>With time stamped images, bridge gap between memories and future adventures. Use Geotag, Location, Latitude, Longitude, and Note stamps to plan new journeys.</p>
-            </div>
-          </div>
-          <div className='bg-color4 rounded-2xl p-5 hover:border hover:border-red-500 space-y-4'>
-            <div>
-              <img src='/assets/features/3.svg' alt='' className='' />
-            </div>
-            <div>
-              <h3 className='text-lg font-semibold'>Geotagging Made Easy</h3>
-            </div>
-            <div>
-              <p className='text-sm text-color7'>Easily navigate through your memories with GPS-enabled timestamping. Explore physical locations right from your photo gallery using Geotag and Location.</p>
             </div>
           </div>
         </div>
