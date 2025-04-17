@@ -9,6 +9,7 @@ import Spacer from "./components/Spacer.jsx";
 import AppInfo from "./pages/AppInfo.jsx";
 import About from "./pages/About.jsx";
 import KeyFeatures from "./pages/KeyFeatures.jsx";
+import Screens from "./pages/Screens.jsx";
 
 createRoot(document.getElementById("root")).render(
   <BrowserRouter>
@@ -21,6 +22,9 @@ createRoot(document.getElementById("root")).render(
     <About />
     <Spacer /> 
     <KeyFeatures />
+    <Spacer />
+    <Screens />
+    <Spacer />
     <Routes>
       <Route path="/" element={<App />} />
     </Routes>
